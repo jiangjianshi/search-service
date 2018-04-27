@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lucene> 
+  <!-- 当前索引库标识 -->  
+  <field> 
+    <item key="house.flag">one</item> 
+  </field>  
+  <field> 
+    <item key="house.one">/data/shm/house/one</item> 
+  </field>  
+  <field> 
+    <item key="house.two">/data/shm/house/two</item> 
+  </field>  
+  <!-- 当前索引库标识 -->  
+  <field> 
+    <item key="room.flag">one</item> 
+  </field>  
+  <field> 
+    <item key="room.one">/data/shm/room/one</item> 
+  </field>  
+  <field> 
+    <item key="room.two">/data/shm/room/two</item> 
+  </field> 
+</lucene>
